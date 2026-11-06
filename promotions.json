@@ -1,0 +1,29 @@
+{
+  "enabled": true,
+  "apps": [
+    {
+      "packageName": "com.Joker.Wallpaper",
+      "title": "Joker Wallpaper",
+      "message": "Dark, moody Joker wallpapers for true fans.",
+      "icon": "https://raw.githubusercontent.com/MarouaneZarzar/SadAnimeBoyWallpaper/main/promotions/icons/com.Joker.Wallpaper.png"
+    },
+    {
+      "packageName": "com.Sad.Wallpapers",
+      "title": "Sad Wallpapers HD",
+      "message": "Alone, broken, deep. Wallpapers that match your mood.",
+      "icon": "https://raw.githubusercontent.com/MarouaneZarzar/SadAnimeBoyWallpaper/main/promotions/icons/com.Sad.Wallpapers.png"
+    },
+    {
+      "packageName": "com.OfflineJoker.Wallpapers",
+      "title": "Joker Wallpapers HD 4K",
+      "message": "Even more Joker wallpapers in stunning 4K. Find your favorite!",
+      "icon": "https://raw.githubusercontent.com/MarouaneZarzar/SadAnimeBoyWallpaper/main/promotions/icons/com.OfflineJoker.Wallpapers.png"
+    },
+    {
+      "packageName": "com.JokerAnd.HisGirlfriend",
+      "title": "Joker & Joker Lover",
+      "message": "The Joker and his queen. Wild couple wallpapers for true fans.",
+      "icon": "https://raw.githubusercontent.com/MarouaneZarzar/SadAnimeBoyWallpaper/main/promotions/icons/com.JokerAnd.HisGirlfriend.png"
+    }
+  ]
+}
